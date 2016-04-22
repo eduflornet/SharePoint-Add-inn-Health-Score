@@ -1,0 +1,3 @@
+C:\Users\ericame\Documents\GitHub\SharePoint-Add-inn-Health-Score\SPHealthScore\SPHealthScore\bin\Debug\SPHealthScore.pdb
+C:\Users\ericame\Documents\GitHub\SharePoint-Add-inn-Health-Score\SPHealthScore\SPHealthScore\obj\Debug\SPHealthScore.dll
+C:\Users\ericame\Documents\GitHub\SharePoint-Add-inn-Health-Score\SPHealthScore\SPHealthScore\obj\Debug\SPHealthScore.pdb

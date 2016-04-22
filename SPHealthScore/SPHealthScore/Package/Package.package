@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="f19c6a88-db91-4a40-a9df-05638a1bc265" 
+        solutionId="f19c6a88-db91-4a40-a9df-05638a1bc265" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPHealthScore"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="15545d63-243c-498c-ad44-280333b2f7f5" />
+  </features>
+</package>
